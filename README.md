@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor Frontend na <a href="https://www.brisanet.com.br/"><b>Brisanet</b></a>.
 - 🌱 Atualmente estudando Recoil, TDD, Clean Architecture e SOLID com <a href="https://www.udemy.com/course/react-com-mango/"><b>Rodrigo Manguinho</b></a>.
-- 📌 Atualmente trabalhando com <a href="https://angular.io/"><b>Anulgar</b></a> e <a href="https://pt-br.reactjs.org/"><b>React</b></a>.
+- 📌 Atualmente trabalhando com <a href="https://angular.io/"><b>Angular</b></a> e <a href="https://pt-br.reactjs.org/"><b>React</b></a>.
 - 🇧🇷 Morando no Brasil / Ceará.
 
  <div>

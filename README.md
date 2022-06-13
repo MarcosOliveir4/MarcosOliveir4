@@ -1,4 +1,4 @@
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, eu sou Marcos Oliveira</h1>
+<h1 align = "justify"> Olá, eu sou Marcos Oliveira</h1>
 
 - 🔭 Desenvolvedor Frontend na <a href="https://www.brisanet.com.br/"><b>Brisanet</b></a>.
 - 🌱 Atualmente estudando Recoil, TDD, Clean Architecture e SOLID com <a href="https://www.udemy.com/course/react-com-mango/"><b>Rodrigo Manguinho</b></a>.

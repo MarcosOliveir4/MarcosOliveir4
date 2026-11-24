@@ -1,6 +1,6 @@
 <h1 align = "justify"> Olá, eu sou Marcos Oliveira</h1>
 
-- 🔭 Desenvolvedor Frontend na <a href="https://www.brisanet.com.br/"><b>Brisanet</b></a>.
+- 🔭 Desenvolvedor Frontend na <a href="https://cwi.com.br/"><b>CWI </b></a>.
 - 📌 Atualmente trabalhando com <a href="https://angular.io/"><b>Angular</b></a> e <a href="https://pt-br.reactjs.org/"><b>React</b></a>.
 - 🇧🇷 Morando no Ceará / Brasil.
 
